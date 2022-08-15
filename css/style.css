@@ -43,7 +43,9 @@ button{
 }
 
 
-li, a, button{
+li, 
+a, 
+button{
 	font-weight: 400;
 	font-size: 23px;
 	color: white;

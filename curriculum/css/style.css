@@ -50,7 +50,9 @@ h3{
   margin-bottom: 20px;
 }
 
-li, a, button{
+li, 
+a, 
+button{
   font-family: "Lato", sans-serif;
   font-weight: 400;
   font-size: 23px;
